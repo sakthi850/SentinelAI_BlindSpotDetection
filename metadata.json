@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAI",
+  "description": "AI-powered security camera optimization, Digital Twin builder, blind spot detection, and real-time risk intelligence simulation dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
